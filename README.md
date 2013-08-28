@@ -3,26 +3,26 @@ Minimal Sublime Text Theme
 
 A flat version of the default Sublime Text theme. 
 
-![Minimal Sublime Text Theme](http://minimaldev.com/img/minimal_sublime_theme/minimal.jpg"
+![Minimal Sublime Text Theme](https://raw.github.com/AntoineBoulanger/AntoineBoulanger.github.io/master/img/minimal_sublime_theme/minimal.jpg)
 
 Minimal Dark
 ------------
 A dark sidebar version.
 
-![Minimal Dark Sublime Text Theme](http://minimaldev.com/img/minimal_sublime_theme/minimal_dark.jpg"
+![Minimal Dark Sublime Text Theme](https://raw.github.com/AntoineBoulanger/AntoineBoulanger.github.io/master/img/minimal_sublime_theme/minimal_dark.jpg)
 
 Color schemes friendly
 ----------------------------
 Just like the default theme.
 
-![Minimal Theme with Solarized (Light) Color Scheme](http://minimaldev.com/img/minimal_sublime_theme/minimal_solarized_light.jpg"
-![Minimal Dark Theme with Solarized (Dark) Color Scheme](http://minimaldev.com/img/minimal_sublime_theme/minimal_solarized_dark.jpg"
+![Minimal Theme with Solarized (Light) Color Scheme](https://raw.github.com/AntoineBoulanger/AntoineBoulanger.github.io/master/img/minimal_sublime_theme/minimal_solarized_light.jpg)
+![Minimal Dark Theme with Solarized (Dark) Color Scheme](https://raw.github.com/AntoineBoulanger/AntoineBoulanger.github.io/master/img/minimal_sublime_theme/minimal_solarized_dark.jpg)
 
 Minimal Sublime Text Icon
 -------------------------
 A flat version of the default icon.
 
-![Minimal Sublime Text Theme Icon](http://minimaldev.com/img/minimal_sublime_theme/minimal_icon.png"
+![Minimal Sublime Text Theme Icon](https://raw.github.com/AntoineBoulanger/AntoineBoulanger.github.io/master/img/minimal_sublime_theme/minimal_icon.png)
 
 .icns for OS X and .ico for Windows included.  
 [Here's how to use it.][1]
@@ -65,4 +65,4 @@ Or
 
 
   [1]: https://github.com/dmatarazzo/Sublime-Text-2-Icon
-  [2]: /AntoineBoulanger/Minimal-Sublime-Text-Theme/archive/master.zip
+  [2]: https://github.com/AntoineBoulanger/Minimal-Sublime-Text-Theme/archive/master.zip
