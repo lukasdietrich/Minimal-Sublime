@@ -31,10 +31,18 @@ Installation
 ------------
 Compatible with both Sublime Text 2 and 3.
 
-### Git ###
-If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory.
+### Package Control ###
 
-You can locate your Sublime Text `Packages` directory by using the menu: `Preferences -> Browse Packages....`
+The easiest way the install the theme is with [Package Control][2].
+
+ 1. Open the Sublime Command Palette *(cmd+shift+p / ctrl+shift+p)* and select `Package Control: Install Package`.
+ 2. Select `Theme - Minimal` to install the theme.
+
+### Git ###
+Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory.
+
+> You can locate your Sublime Text `Packages` directory by using the
+> menu: `Preferences -> Browse Packages...`
 
 While inside the Packages directory, clone the theme repository with the command:
 
@@ -46,11 +54,10 @@ While inside the Packages directory, clone the theme repository with the command
 
 If you want to install the theme manualy:
 
- - [Download the theme][2]
- - Unzip and rename the folder to `Theme - Minimal`
- - Copy the folder into your Sublime Text Packages directory, which you
-   can find using the menu: `Preferences -> Browse
-   Packages....`
+ 1. [Download the theme][3]
+ 2. Unzip and rename the folder to `Theme - Minimal`
+ 3. Copy the folder into your Sublime Text `Packages` directory, which you
+    can find using the menu: `Preferences -> Browse Packages....`
 
 Activating the Theme
 --------------------
@@ -65,4 +72,5 @@ Or
 
 
   [1]: https://github.com/dmatarazzo/Sublime-Text-2-Icon
-  [2]: https://github.com/AntoineBoulanger/Minimal-Sublime-Text-Theme/archive/master.zip
+  [2]: https://sublime.wbond.net/
+  [3]: https://github.com/AntoineBoulanger/Minimal-Sublime-Text-Theme/archive/master.zip
