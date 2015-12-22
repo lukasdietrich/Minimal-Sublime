@@ -616,6 +616,12 @@
         "shadow_color": [255, 255, 255, 80],
         "shadow_offset": [0, 0] /***/
     },
+    // Bold tab text setting
+    {
+        "class": "tab_label",
+        "settings": ["minimal_bold_tab_label"],
+        "font.bold": true
+    },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["file_medium"]}],
@@ -860,5 +866,18 @@
         "layer0.texture": "Theme - Minimal/Minimal/icons/use_buffer.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
+    },
+    // Remove icons on sidebar
+    {
+        "class": "icon_file_type",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
     }
 ]
